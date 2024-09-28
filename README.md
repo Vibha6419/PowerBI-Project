@@ -1,3 +1,6 @@
+![Dashboard using Orders Dataset](https://github.com/user-attachments/assets/003c3f1f-9c23-48f0-972d-755efdf7a12b)
+
+
 **Sales and Profit Analysis Dashboard**
 
 Description:
