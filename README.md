@@ -1,5 +1,3 @@
-https://github.com/Vibha6419/PowerBI-Project/blob/main/Dashboard%20using%20Orders%20Dataset.png
-
 **Sales and Profit Analysis Dashboard**
 
 Description:
